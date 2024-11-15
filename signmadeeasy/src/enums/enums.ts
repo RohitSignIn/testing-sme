@@ -1,0 +1,6 @@
+export enum SignTabsEnums {
+  DRAWSIGNTAB = "DRAW",
+  TYPESIGNTAB = "TYPE",
+  UPLOADSIGNTAB = "UPLOAD",
+  SAVEDSIGNTAB = "SAVED",
+}
